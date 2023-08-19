@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_title",
+  "name": "obj_box",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "TItle",
-    "path": "folders/Objects/TItle.yy",
+    "name": "Sudoku Board",
+    "path": "folders/Objects/Sudoku Board.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_title",
-    "path": "sprites/spr_title/spr_title.yy",
+    "name": "spr_box",
+    "path": "sprites/spr_box/spr_box.yy",
   },
   "spriteMaskId": null,
   "visible": true,

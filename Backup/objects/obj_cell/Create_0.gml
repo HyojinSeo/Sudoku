@@ -4,3 +4,5 @@
 number = 0; 
 // Whether the number is fixed (part of the puzzle) or not.
 fixed = false;
+
+text_color = c_black;

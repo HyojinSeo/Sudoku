@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_title",
+  "name": "obj_game_over",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_title",
-    "path": "sprites/spr_title/spr_title.yy",
+    "name": "spr_game_over",
+    "path": "sprites/spr_game_over/spr_game_over.yy",
   },
   "spriteMaskId": null,
   "visible": true,

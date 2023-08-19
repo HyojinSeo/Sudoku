@@ -11,7 +11,7 @@
   ],
   "parent": {
     "name": "Buttons",
-    "path": "folders/Objects/UI/Buttons.yy",
+    "path": "folders/Objects/Buttons.yy",
   },
   "parentObjectId": {
     "name": "obj_button_parent",
