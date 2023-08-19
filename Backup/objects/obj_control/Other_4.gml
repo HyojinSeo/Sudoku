@@ -61,3 +61,10 @@ for (var _row = 0; _row < 3; _row++) {
 	}
 }
 
+// Initialize the global heart array
+global.hearts = []; 
+
+global.hearts[0] = instance_create_layer(490,80,"Instances",obj_heart);
+global.hearts[1] = instance_create_layer(530,80,"Instances",obj_heart);
+global.hearts[2] = instance_create_layer(570,80,"Instances",obj_heart);
+
