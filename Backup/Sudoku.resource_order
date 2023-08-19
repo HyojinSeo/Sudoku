@@ -21,6 +21,7 @@
     {"name":"Number pads","order":15,"path":"folders/Objects/Number pads.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_setting","order":17,"path":"objects/obj_setting/obj_setting.yy",},
     {"name":"obj_button_quit","order":5,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"obj_button_play","order":3,"path":"objects/obj_button_play/obj_button_play.yy",},
     {"name":"spr_heart","order":6,"path":"sprites/spr_heart/spr_heart.yy",},
